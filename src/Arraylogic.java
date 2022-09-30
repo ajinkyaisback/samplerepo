@@ -12,6 +12,7 @@ public class Arraylogic {
     	 
      }
      System.out.println(Arrays.toString(a));
+     System.out.println(Arrays.toString(a));
 	}
 
 }
