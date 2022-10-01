@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 		// 2. static way :static hashmap
 
 		System.out.println(HashmapInitialization.Marksmap.get("A"));
@@ -14,3 +15,14 @@
 				.collect(Collectors.toMap(data -> data[0], data -> data[1]));
 		System.out.println(map4.get("Tom"));
 		
+=======
+
+public class Loginpage {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+>>>>>>> Stashed changes
