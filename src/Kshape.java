@@ -1,4 +1,4 @@
-package starPattern;
+
 
 public class Kshape {
 /*	A B C D E F 

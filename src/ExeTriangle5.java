@@ -1,4 +1,4 @@
-package starPattern;
+
 
 public class ExeTriangle5 {
 

@@ -1,4 +1,3 @@
-package starPattern;
 
 public class Pyramid2Reverse {
 

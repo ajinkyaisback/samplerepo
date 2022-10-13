@@ -1,4 +1,4 @@
-package starPattern;
+
 
 public class TrianleNumbers {
 	public static void main(String[] args) {

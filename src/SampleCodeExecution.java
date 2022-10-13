@@ -36,10 +36,10 @@ public class SampleCodeExecution {
 		 */
 		
 		
-		  String s = "A"; 
-		  String s1="a"; 
+		//  String s = "A"; 
+		//  String s1="a"; 
 		  //System.out.println(s.compareTo(s1));
-		  String D= "Ajinkya";
+		//  String D= "Ajinkya";
 		//  System.out.println(D+10/2);
         //System.out.println(D+10-5);
 		 // System.out.println(s.concat(s1));
